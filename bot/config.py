@@ -1,7 +1,7 @@
 # (c) @AbirHasan2005
 
 from bot.get_cfg import get_config
-from . import *
+
 class Config(object):
     # You can keep this default
     SESSION_NAME = get_config("SESSION_NAME", "AHCompressorBot")
