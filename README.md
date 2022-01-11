@@ -20,7 +20,7 @@ A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **
 <a href="https://t.me/VideoCompressLogs"><img src="https://img.shields.io/badge/Demo-Bot%20Logs%20Channel-blue.svg?logo=telegram"></a>
 
 ## Easy Deploy:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/tiktikimelbo7/compressorbot/HEVC)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/tiktikimelbo7/abirhasancommpes/tree/HEVC)
 
 #### Video Tutorial:
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/gMRsSqaUkio)
